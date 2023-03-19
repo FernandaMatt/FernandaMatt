@@ -7,9 +7,9 @@ I initially graduated in Geology and during my master's research, I faced proble
 ### Education 🎓📖
 * Currently pursuing a degree in software engineering at École 42, 42 Rio.
 
-* Bachelor's degree in Geology from UFRJ (Federal University of Rio de Janeiro).
-
 * Master's degree in Hydrogeology from UFRJ (Federal University of Rio de Janeiro).
+
+* Bachelor's degree in Geology from UFRJ (Federal University of Rio de Janeiro).
 
 ### Contact 📩
 [Email](fernandacunha@id.uff.br)
