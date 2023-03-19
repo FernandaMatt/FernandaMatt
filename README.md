@@ -7,7 +7,7 @@ I initially graduated in Geology and during my master's research, I faced proble
 ### Education 🎓📖
 * Currently pursuing a degree in software engineering at École 42, 42 Rio.
 
-* Computer Systems Undergraduate studant at UFF (Fluminense Federal University).
+* Computer Systems Undergraduate student at UFF (Fluminense Federal University).
 
 * Master's degree in Hydrogeology from UFRJ (Federal University of Rio de Janeiro).
 
