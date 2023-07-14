@@ -5,7 +5,7 @@ My name is Fernanda and I am a software engineering student at [École 42](https
 I initially graduated in Geology and during my master's research, I faced problems with data scarcity due to the pandemic. To solve this issue, I decided to learn programming and fell in love with it. Since then, I have been pursuing a career in software engineering, hoping to make a difference by creating innovative solutions.
 
 ### Education 🎓📖
-* Currently pursuing a degree in software engineering at École 42, 42 Rio.
+* Currently studying software engineering at École 42, 42 Rio.
 
 * Computer Systems Undergraduate student at UFF (Fluminense Federal University).
 
